@@ -43,7 +43,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            Fashion changes, but style endures.
+            Fashion changes, but style endures
           </motion.p>
 
           <motion.div
